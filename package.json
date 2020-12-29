@@ -1,0 +1,12 @@
+{
+  "name": "smb-loan-platform-ethereum",
+  "version": "1.0.0",
+  "description": "A decentralized application (dapp) containing a smart contract deployed to the Ethereum blockchain via Alchemy.",
+  "scripts": {
+    "start": "cd client && npm run start"
+  },
+  "dependencies": {
+    "solc": "^0.6.4",
+    "web3": "^1.3.0"
+  }
+}
